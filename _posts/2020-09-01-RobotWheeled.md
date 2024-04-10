@@ -13,7 +13,7 @@ The [RoboMaster University Series](https://www.robomaster.com/en-US/robo/overvie
 
 I participated RMU2021 with my teammates as leader of Electric Control Group. We design schemes, make circuit boards, and debug embedded programs. We tirelessly tested and optimized our robots, and endured countless sleepless nights. It' a memorable and cherished time.
 <!-- ![operate](/images/rm/operate.jpg) -->
-<img class="center" src="/images/rm/operate.jpg" width="600px" />
+<img class="center" src="/images/rm/operate.jpg" width="600px" alt="operate" />
 
 ## Framework
 
@@ -24,9 +24,9 @@ I participated RMU2021 with my teammates as leader of Electric Control Group. We
 
 ### Infantry
 <!-- ![infantry](/images/rm/infantry34.jpg) -->
-<img class="center" src="/images/rm/infantry34.jpg" width="600px" />
+<img class="center" src="/images/rm/infantry34.jpg" width="600px" alt="infantry" />
 
 ### Hero
 <!-- ![hero](/images/rm/hero2.jpg) -->
-<img class="center" src="/images/rm/hero2.jpg" width="600px" />
+<img class="center" src="/images/rm/hero2.jpg" width="600px" alt="hero" />
 
