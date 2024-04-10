@@ -3,7 +3,7 @@ title: "Wheeled Robot ROBOMASTER"
 date: 2021-12-30
 layout: post
 categories: [engineering, control]
-tags: [mobile-robot]
+tags: [mobile robot]
 ---
 
 
@@ -13,7 +13,7 @@ The [RoboMaster University Series](https://www.robomaster.com/en-US/robo/overvie
 
 I participated RMU2021 with my teammates as leader of Electric Control Group. We design schemes, make circuit boards, and debug embedded programs. We tirelessly tested and optimized our robots, and endured countless sleepless nights. It' a memorable and cherished time.
 <!-- ![operate](/images/rm/operate.jpg) -->
-<img class="center" src="/images/rm/operate.jpg" width="600px" alt="operate" />
+<img class="center" src="/images/rm/Operate.jpg" width="600px" alt="operate" />
 
 ## Framework
 

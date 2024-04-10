@@ -10,9 +10,7 @@ order: 4
 > If you have any questions or suggestions, please feel free to contact <kbd>zwt190315@163.com</kbd> or <kbd>wentaozhang@hust.edu.cn</kbd>. Welcome to exchange!
 {: .prompt-tip }
 
-<!-- Agile Navigation Project`_posts/agilenav.md`{{_posts/2024-04-05-AgileNav.md}}
 
-Agile Navigation Project[`_posts/agilenav.md`](/posts/AgileNav) -->
 
 <!-- # swift_nav
 
