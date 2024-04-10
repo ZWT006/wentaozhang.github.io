@@ -3,7 +3,7 @@ title: "Wheeled Robot ROBOMASTER"
 date: 2021-12-30
 layout: post
 categories: [engineering, control]
-tags: [mobile robot]
+tags: [mobile-robot]
 ---
 
 
