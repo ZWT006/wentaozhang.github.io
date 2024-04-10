@@ -4,12 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+<!-- Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip } -->
+
+> If you have any questions or suggestions, please feel free to contact <kbd>zwt190315@163.com</kbd> or <kbd>wentaozhang@hust.edu.cn</kbd>. Welcome to exchange!
 {: .prompt-tip }
 
-Agile Navigation Project`_posts/agilenav.md`{_posts/agilenav.md}
+<!-- Agile Navigation Project`_posts/agilenav.md`{{_posts/2024-04-05-AgileNav.md}}
 
-# swift_nav
+Agile Navigation Project[`_posts/agilenav.md`](/posts/AgileNav) -->
+
+<!-- # swift_nav
 
 ## Introduction
 Huazhong University of Science and Technology - School of Artificial Intelligence and Automation - Coralab Lab, ROS package for *Agile and Safe Trajectory Planning for Quadruped Navigation with Motion Anisotropy Awareness*
@@ -24,4 +29,4 @@ Huazhong University of Science and Technology - School of Artificial Intelligenc
 **Auxiliary Functions**:visualization of rviz, acquisition of navigation target points and other auxiliary functions, the following packages use open source code and partially modification.  
 `grid_path_search`:https://github.com/chunyang-zhang/grid_path_searcher/  
 `rviz_plugins`:  
-`waypoint_generator`:https://github.com/epan-utbm/waypoint_generator 
+`waypoint_generator`:https://github.com/epan-utbm/waypoint_generator  -->
