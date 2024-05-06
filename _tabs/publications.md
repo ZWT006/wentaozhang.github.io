@@ -7,7 +7,7 @@ order: 1
 ## Under Review
 ---
 • **W. Zhang**, S. Xu, P. Cai, and L. Zhu, [Agile and Safe Trajectory Planning for Quadruped Navigation with Motion Anisotropy Awareness](https://arxiv.org/abs/2403.10101). Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024    
-• **W. Zhang**, S. Xu, G. Zuo, and L. Zhu, Hybrid Dynamics Modeling and Trajectory Planning for a Cable-Trailer System with a Quadruped Robot. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024  
+• **W. Zhang**, S. Xu, G. Zuo, and L. Zhu, [Hybrid Dynamics Modeling and Trajectory Planning for a Cable-Trailer System with a Quadruped Robot](https://arxiv.org/abs/2404.12220). Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024  
 
 ## Journal Paper
 ---
