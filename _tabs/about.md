@@ -11,6 +11,9 @@ order: 4
 {: .prompt-tip }
 
 
+<div style="text-align: center">
+    <a href="https://m.maploco.com/details/71f666nh"><img style="border:0px;" src="https://www.maploco.com/vm24/10366253.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
+</div>
 
 <!-- # swift_nav
 
