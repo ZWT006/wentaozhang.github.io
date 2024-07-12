@@ -12,7 +12,10 @@ I am a highly-motivated person interested in robotics. My research goal is to bu
 <!-- <div style="border: 0px solid #1182BF;padding: 4px;">
     <p style="text-align: justify;"> <img class="right" src="/images/rm/robots.jpg" width="490px" /> I am a highly-motivated person interested in robotics. My research goal is to build agile, safety, intelligent, and autonomous mobile robot systems. So my research lies in the intersection of robotics, planning, optimization, and control. Since 2022, I have been concurrently pursuing a M.Sc. in School Artificial Intelligence and Automation at Huazhong University of Science and Technology (HUST) under the supervision of Prof. Lijun Zhu. I received my B.Sc. in School of Control Engineering at Northeastern University at Qinhuangdao (NEUQ) in 2022.</p>
 </div> -->
-
+<!-- <div style="text-align: center">
+    <p style="font-weight: bold">I am seeking a PhD position starting in Fall 2025.</p>
+</div> -->
+<!-- <p style="margin-top: 10px;">chigui-2 motion video in May, 2022</p> -->
 <!-- Where I spent wonderful time with my friends, teammates, and teachers. -->
 
 <img class="center" src="/images/rm/robots.jpg" width="600px"  alt="robots" />
@@ -27,11 +30,11 @@ I am a highly-motivated person interested in robotics. My research goal is to bu
 
 ## Awards & Honors
 ---
+• **National Scholarship for Undergraduates**(2019, National Level)  
+• National Inspiration Scholarship for Undergraduates(2020, 2021, National Level)  
+• National College Robot Competition ROBOMASTER(2021, Third Prize)  
 • Northeastern University Outstanding Graduate(2022, University Level)  
 • Northeastern University Outstanding Graduation Thesis(2022, University Level)  
-• National College Robot Competition ROBOMASTER(2021, Third Prize)  
-• National Inspiration Scholarship for Undergraduates(2020, 2021, National Level)  
-• National Scholarship for Undergraduates(2019, National Level)
 
 ## Skills
 ---
@@ -66,4 +69,10 @@ I am a highly-motivated person interested in robotics. My research goal is to bu
 ### [Wheeled Robot for RoboMaster University Series Competition](/posts/RobotWheeled)
 <div style="border: 0px solid #1182BF;padding: 4px;">
     <p> <img class="left" src="/images/rm/hero2.jpg" width="200px" alt="hero"/> The RoboMaster University Series (RMU) is a platform for robotic competitions and academic exchange, specially designed for global technology enthusiasts. It requires participants to go beyond their textbooks to form robotics teams, develop a diverse fleet of robots, and participate in team battles. I participated RMU2021 with my teammates as leader of the Electric Control Group. We design schemes, make circuit boards, and debug embedded programs. We tirelessly tested and optimized our robots, and endured countless sleepless nights. It' a memorable and cherished time.</p>
+</div>
+
+
+---
+<div style="text-align: center">
+    <a href="https://m.maploco.com/details/71f666nh"><img style="border:0px;" src="https://www.maploco.com/vmap/10366253.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
 </div>
