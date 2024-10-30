@@ -2,7 +2,7 @@
 layout: page
 ---
 # Wentao Zhang (张文涛)
-I am a highly-motivated person interested in robotics. My research goal is to build agile, safe, intelligent, and autonomous mobile robot systems. So my research lies in the intersection of robotics, planning, optimization, and control. Since 2022, I have been concurrently pursuing a M.Sc. in School Artificial Intelligence and Automation at Huazhong University of Science and Technology (HUST) under the supervision of Prof. Lijun Zhu. I received my B.Sc. in the School of Control Engineering at Northeastern University at Qinhuangdao (NEUQ) in 2022.
+I am a highly-motivated person interested in robotics. My research goal is to build agile, safe, intelligent, and autonomous mobile robot systems. So my research lies in the intersection of robotics, planning, optimization, and control. Since 2022, I have been pursuing a M.Sc. in School of Artificial Intelligence and Automation at Huazhong University of Science and Technology (HUST) under the supervision of Prof. Lijun Zhu. I received my B.Eng. in the School of Control Engineering at Northeastern University at Qinhuangdao (NEUQ) in 2022.
 
 <!-- <center class="half">
     <img src="/images/rm/robots.jpg" width="400"/>
@@ -28,9 +28,26 @@ I am a highly-motivated person interested in robotics. My research goal is to bu
 **Northeastern University at Qinhuangdao**, China 09/2018 - 06/2022  
 *Bachelor* in Technique and Instrumentation of Measurements (GPA 92.22/100)   -->
 
+
+<div style="border: 0px solid #1182BF; padding: 4px;">
+    <h3><b>News</b></h3>
+    <ul>
+        <li><em>Jun. 2024</em>: Two paper (1st, 2nd author) have been accepted by IROS 2024.</li>
+        <li><em>May. 2024</em>: Participated in ICRA 2024 (Yokohama, Japan). Honorary to present an Oral Presentation!</li>
+    </ul>
+    <!-- <details>
+        <summary><b>Old News</b></summary>
+        <ul>
+            <li><i>May. 2024</i>: Participated in ICRA 2024 (Yokohama, Japan). Honorary to present an Oral Presentation!</li>
+            <li><i>May. 2024</i>: Participated in ICRA 2024 (Yokohama, Japan). Honorary to present an Oral Presentation!</li>
+        </ul>
+    </details> -->
+</div>
+
+
 ## Awards & Honors
 ---
-• **National Scholarship for Undergraduates**(2019, National Level)  
+• National Scholarship for Undergraduates(2019, National Level)  
 • National Inspiration Scholarship for Undergraduates(2020, 2021, National Level)  
 • National College Robot Competition ROBOMASTER(2021, Third Prize)  
 • Northeastern University Outstanding Graduate(2022, University Level)  
